@@ -1,0 +1,21 @@
+body {
+  background-color:#f4f4f4; font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+p{
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.yellowbox{background-color: #e9cb20; padding: 20px;}
+.sidebar{ background-color:#666666; width: 400px; float:right; }
+table {font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal; color: #ffffff}
